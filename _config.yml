@@ -23,8 +23,7 @@ twitter_username: communedads
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
-# theme: minima
+theme: minima
 gems:
   - jekyll-feed
 exclude:

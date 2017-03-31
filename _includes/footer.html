@@ -1,0 +1,32 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            {% if site.email %}
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+            <li><a href="https://www.facebook.com/communedads"><img src="/assets/icon-facebook.png"></a></li>
+            <li><a href="https://www.soundcloud.com/communedads"><img src="/assets/icon-soundcloud.png"></a></li>
+            <li><a href="https://www.twitter.com/communedads">{% include icon-twitter.svg %}</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

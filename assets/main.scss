@@ -41,5 +41,35 @@ $light-brown: #f9b270 !default;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
-    overflow: visible;
 } 
+
+#banner-strip {
+    background-color: $dark-red;
+    opacity: 0.8;
+    height:70px;
+    bottom:0;
+    left:0;
+    position: absolute;
+    width: 100%;
+}
+
+
+#banner-title {
+    color: $light-brown;
+    font-size: 3em;
+    margin: 0;
+    position: absolute;
+    bottom: 5px;
+    left: 35%;
+    white-space: nowrap;
+}
+#banner-subtitle {
+    color: white;
+    font-size: 1em;
+    margin: 0;
+    position: absolute;
+    bottom: 0;
+    left: 36%;
+    white-space: nowrap;
+
+}

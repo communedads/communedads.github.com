@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Commune Dads - About
 permalink: /about/
 ---
 \| [Podcast](#podcast) \| [Hosts](#hosts) \| [Commune](#community) \|
@@ -8,13 +8,13 @@ permalink: /about/
 <a name="podcast"></a>
 ## About the podcast
 
-Commune Dads, the podcast about parenting and education in alternative culture, is exclusively produced by the hosts adder Oaks and Keegan Dunn (henceforth referred to in the first person). We are good friends, having moved to Twin Oaks Community at roughly the same time, and our respective children were born six months apart. We frequently found ourselves in engaging conversations about our parenting philosophies, educational practices, and observations about parenting on a commune. Realizing that these conversations were at the very least mildly interesting, and that commune parenting is something most people have no exposure to, we decided to share these conversations with the world.
+Commune Dads is produced by the hosts adder Oaks and Keegan Dunn (henceforth referred to in the first person). We are good friends, having moved to Twin Oaks Community at roughly the same time, and our respective children were born six months apart. We frequently found ourselves in engaging conversations about our parenting philosophies, educational practices, and observations about parenting on a commune. Realizing that these conversations were at the very least mildly interesting, and that commune parenting is something most people have no exposure to, we decided to share these conversations with the world.
 
-Each episode features a central discussion topic, which we probe, explore, share anecdotes about, and examine from both the commune and mainstream perspective. We freely go off on whichever tangents grab us. In addition, we discuss parenting issues in the news, share our recommendations for books, games, or activities, discuss listener comments, and are sometimes joined in discussion with our fellow communards.
+Each episode features a central topic about which we probe, share anecdotes, and follow tangents. In addition, we discuss parenting issues in the news, share our recommendations for books, games, or activities, discuss listener comments, and are sometimes joined in discussion by our fellow communards.
 
-Who's this show for, you ask? Just fathers who live on communes? No, of course not. I'm sure we know personally at least half of them, anyway. This show is for anyone interested in parenting,  intentional communities and ecovillages, homeschooling, classical education, light banter, existential angst, groovy parenting practices, or nerdiness. So, basically, you. And if it's not meeting your podcast needs, let us know. Write a comment or email us at communedads@twinoaks.org with your questions, complaints, topic suggestions, or just to say 'hi'.
+Who's this show for, you ask? Just fathers who live on communes? No, of course not. I'm sure we know personally at least half of them, anyway. This show is for anyone interested in parenting, intentional communities and ecovillages, homeschooling, classical education, light banter, existential angst, groovy parenting practices, or nerdiness. So, basically, you. And if it's not meeting your podcast needs, let us know. Write a comment or email us at communedads@twinoaks.org with your questions, complaints, topic suggestions, or just to say 'hi'.
 
-We release a new episode once every two weeks on Fridays. To listen to the show, view the episodes on this site or subscribe via our RSS feed, [iTunes](https://itunes.apple.com/us/podcast/commune-dads/id1202869667?mt=2), [SoundCloud](http://www.soundcloud.com/communedads), or your favorite podcast app. We record and edit this show completely on our own time, and any listener support goes toward ongoing hosting fees and may one day permit us to count our time spent as our work contribution to our community.
+We release a new episode once every two weeks on Fridays. To listen, view the episodes on this site or subscribe via our RSS feed, [iTunes](https://itunes.apple.com/us/podcast/commune-dads/id1202869667?mt=2), [SoundCloud](http://www.soundcloud.com/communedads), or your favorite podcast app. We record and edit this show completely on our own time and any listener support goes toward ongoing hosting fees and may one day permit us to count our time spent as our work contribution to our community.
 
 <a name="hosts"></a>
 ## About the hosts

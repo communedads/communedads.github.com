@@ -8,7 +8,7 @@ permalink: /about/
 <a name="podcast"></a>
 ## The podcast
 
-Commune Dads is produced by the hosts adder Oaks and Keegan Dunn (henceforth referred to in the first person). We are good friends, having moved to Twin Oaks Community at roughly the same time, and our respective children were born six months apart. We frequently found ourselves in engaging conversations about our parenting philosophies, educational practices, and observations about parenting on a commune. Realizing that these conversations were at the very least mildly interesting, and that commune parenting is something most people have no exposure to, we decided to share these conversations with the world.
+Commune Dads is produced by adder Oaks and Keegan Dunn (henceforth referred to in the first person). We are good friends, having moved to Twin Oaks Community at roughly the same time, and our respective children were born six months apart. We frequently found ourselves in engaging conversations about our parenting philosophies, educational practices, and observations about parenting on a commune. Realizing that these conversations were at the very least mildly interesting, and that commune parenting is something most people have no exposure to, we decided to share these conversations with the world.
 
 Each episode features a central topic about which we probe, share anecdotes, and follow tangents. In addition, we discuss parenting issues in the news, share our recommendations for books, games, or activities, discuss listener comments, and are sometimes joined in discussion by our fellow communards.
 

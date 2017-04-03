@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-\| [Podcast](#podcast) \| [Hosts](#hosts) \| [Commune](#community) \|
+\| [Podcast](#podcast) \| [Hosts](#hosts) \| [Commune](#community) \| [Website](#website) \|
 
 <a name="podcast"></a>
 ## The podcast
@@ -27,13 +27,18 @@ Adder became involved in the communal childcare at Twin Oaks through Unicorn Sch
 
 <img src="/assets/cdads_keegan.jpg" align="right" />**Keegan Dunn** is the father of Saoirse.  After an embarrassing attempt at college, he dropped out to pursue his dream of being a scruffy hitchhiking anarchist and, after seven years as a computer programmer and a yearlong stint in a [Zen Buddhist monastery](https://zmm.mro.org/), he ended up at Twin Oaks in 2011.
 
-For the first five years of his membership, Keegan managed the dairy program.  After Saoirse was born, he retired and became [vegan](http://reducing-suffering.org/). Now, other than keeping Saoirse happy, he [indexes books](http://www.twinoakscommunity.org/book-indexing-intro) and teaches Latin and programming.
+For the first five years of his membership, Keegan managed the dairy program.  In 2016 he finally retired and became [vegan](http://reducing-suffering.org/). Now, other than keeping Saoirse happy, he [indexes books](http://www.twinoakscommunity.org/book-indexing-intro) and teaches Latin and programming.
 
-His hobbies include philosophy, [mnemonics](https://en.wikipedia.org/wiki/Method_of_loci), and [software that doesn't suck](http://www.suckless.org).
+His hobbies include studying the [St. John's College reading list](https://www.sjc.edu/academic-programs/undergraduate/seminar) with adder, [remembering everything he reads](https://en.wikipedia.org/wiki/Method_of_loci), and [hating on consumerist computer culture](http://www.suckless.org/sucks/web).
 
 <a name="community"></a>
 ## The commune
 Keegan and adder live at Twin Oaks Community in rural Virginia. Founded in 1967, Twin Oaks is the oldest secular income-sharing community in the United States. It has no central leader, rather a system of shared self-governance. Twin Oaks supports itself through cottage industries including [Twin Oaks Tofu](http://www.twinoakscommunity.org/twin-oaks-soyfoods-tofu-and-more) and [Twin Oaks Hammocks](https://www.twinoakshammocks.com/), as well as self-sustaining domestic projects, such as the community vegetable garden and dairy. Each member is expected to meet a weekly work quota in some combination of income or domestic areas, including a wide range of jobs such as tofu and hammock production, business management, childcare and education, building and equipment maintenance, house cleaning, meal preparation, and social event planning. Twin Oaks provides its members with all of their material needs, such as food, housing, and healthcare, as well as a personal stipend for discretionary spending. Together, members strive to be a positive force in each other's lives and an example to the world of cooperative living. For more information, visit www.twinoaks.org.
 
 Childrearing at Twin Oaks is a unique blend of mainstream parenting practices and radical communitarianism. Parents hold the bottom-line authority and responsibility with regard to their children, but Twin Oaks's commitment to communal childrearing provides a robust structure of support. Most children's days include time with parents, time at the communal daycare, time with tutors, and time with other childcare workers (called "primaries").
+
+<a name="website"></a>
+## Website
+
+Hosted for free on the amazing [Github Pages](https://pages.github.com/). Made with [Jekyll](https://jekyllrb.com/) and no javascript because Keegan is a curmudgeon who believes twenty year-old computers should still run fast.
 

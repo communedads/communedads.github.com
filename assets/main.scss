@@ -34,7 +34,7 @@ $light-brown: #f9b270 !default;
 #head_img {
     display:block;
     position: relative;
-    width: 100%;
+    width: 100vw;
     height: 60vh;
     max-height: 720px;
     background: url("/assets/header.jpg");
@@ -58,20 +58,24 @@ $light-brown: #f9b270 !default;
 #banner-title {
     font-family:  Helvetica;
     color: $dark-red;
-    font-size: 3em;
+    font-size: 2.5em;
+    line-height: 0;
     margin: 0;
-    position: absolute;
-    bottom: 5px;
-    left: 35vw;
+    position: relative;
+    text-align: center;
+    top: 40%; //-51vh;
     white-space: nowrap;
 }
+
 #banner-subtitle {
     color: black;
     font-size: 1em;
+    line-height: 0;
     margin: 0;
-    position: absolute;
-    bottom: 0;
-    left: 37vw;
+    position: relative;
+    top: 75%;
+    text-align: center;
+    
     white-space: nowrap;
 }
 
@@ -80,3 +84,16 @@ body {
     font-size: 18px;
     color: #444;
 }
+
+@media screen and (max-width: 500px) {
+    #banner-title {
+        font-size: 1.5em;
+        top: 40%; //-51vh;
+    }
+
+    #banner-subtitle {
+        font-size: .6em;
+        top: 75%;
+    }
+}
+

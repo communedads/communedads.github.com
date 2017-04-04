@@ -29,7 +29,7 @@ Adder became involved in the communal childcare at Twin Oaks through Unicorn Sch
 
 For the first five years of his membership, Keegan managed the dairy program.  In 2016 he finally retired and became [vegan](http://reducing-suffering.org/). Now, other than keeping Saoirse happy, he [indexes books](http://www.twinoakscommunity.org/book-indexing-intro) and teaches Latin and programming.
 
-His hobbies include studying the [St. John's College reading list](https://www.sjc.edu/academic-programs/undergraduate/seminar) with adder, [mnemonics](https://en.wikipedia.org/wiki/Method_of_loci), and [hating on consumerist computer culture](http://www.suckless.org/sucks/web).
+His hobbies include studying the [St. John's College reading list](https://www.sjc.edu/academic-programs/undergraduate/seminar) with adder, [memorizing things](https://en.wikipedia.org/wiki/Method_of_loci), and [hating on consumerist computer culture](http://www.suckless.org/sucks/web).
 
 <a name="community"></a>
 ## The commune

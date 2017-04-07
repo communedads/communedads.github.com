@@ -40,5 +40,5 @@ Childrearing at Twin Oaks is a unique blend of mainstream parenting practices an
 <a name="website"></a>
 ## Website
 
-Hosted for free on the amazing [Github Pages](https://pages.github.com/). Made with [Jekyll](https://jekyllrb.com/) and no javascript because Keegan is a curmudgeon who believes twenty year-old computers should still run fast.
+Hosted for free on the amazing [Github Pages](https://pages.github.com/). Made with [Jekyll](https://jekyllrb.com/) and minimal javascript because Keegan is a curmudgeon who believes twenty year-old computers should still run fast.
 

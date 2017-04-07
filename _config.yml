@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.communedads.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: communedads
 soundcloud_username: communedads
+disqusname: communedads
 
 # Build settings
 markdown: kramdown

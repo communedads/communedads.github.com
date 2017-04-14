@@ -16,6 +16,12 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+
+        {% if post.excerpt %}
+            <span class="post-excerpt">
+                {{ post.excerpt }}
+            </span>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>

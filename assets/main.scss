@@ -90,6 +90,10 @@ body {
     clear: both;
 }
 
+.post-excerpt p {
+    margin-left: 10%; !important
+}
+
 @media screen and (max-width: 500px) {
     #banner-title {
         font-size: 1.5em;

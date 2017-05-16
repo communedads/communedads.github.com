@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 8: Siblings with Ezra Freeman"
+title: "Episode 08: Siblings with Ezra Freeman"
 date: 2017-04-28
 categories: episodes
 comments: true
